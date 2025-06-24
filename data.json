@@ -1,0 +1,24 @@
+{
+  "tenders": [
+    {
+      "id": "T001",
+      "name": "Tender A",
+      "number": "TN001",
+      "quantity": 100,
+      "product": "11M-500KG",
+      "awardedDate": "2024-01-01",
+      "dueDate": "2024-03-01",
+      "completed": 30
+    },
+    {
+      "id": "T002",
+      "name": "Tender B",
+      "number": "TN002",
+      "quantity": 200,
+      "product": "13M-850KG",
+      "awardedDate": "2024-02-01",
+      "dueDate": "2024-05-01",
+      "completed": 150
+    }
+  ]
+}
